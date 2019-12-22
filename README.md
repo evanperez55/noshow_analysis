@@ -27,15 +27,23 @@ CREATE TABLE noShow (
 
 # Steps to take
 1. Clean data
- a. Check data for outliers/invalid data (Python)
- b. Remove data outside parameters (SQL)
+
+a. Check data for outliers/invalid data (Python)
+
+b. Remove data outside parameters (SQL)
+ 
  c. Change column names and values to be relative format (SQL)
 2. Transform
- a. Create table with biomarker counts (SQL)
-      i. No Show and Show 
+
+a. Create table with biomarker counts (SQL)
+     
+     i. No Show and Show 
+ 
  b. Create table of difference between when appointment was scheduled and the actual date of the appointment (SQL)
 3. Model
+ 
  a. Map frequency of disease rates against No Show and Show (Tableau)
+ 
  b. Map out No Show and Show appointments and the difference between the scheduled and actual day of the appointment (Tableau)
 
 # Cleaning Data
