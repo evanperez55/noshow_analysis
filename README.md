@@ -75,3 +75,4 @@ ____________________________________________________________________________
 Data Used: https://www.kaggle.com/joniarroba/noshowappointments
 Tools Used: PostgreSQL, Python, Tableau
 
+**See Issues page for data modeled charts 
